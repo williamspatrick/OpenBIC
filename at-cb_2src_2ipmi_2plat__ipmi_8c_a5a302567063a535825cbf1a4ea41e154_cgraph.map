@@ -1,0 +1,11 @@
+<map id="OEM_1S_GET_FW_VERSION" name="OEM_1S_GET_FW_VERSION">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,205,83"/>
+<area shape="rect" id="node2" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#abda0c3d7a63cc6f68d1ed88e1d36729d" title=" " alt="" coords="292,5,391,32"/>
+<area shape="rect" id="node4" href="$pex89000_8c.html#afcb9dc94986dc9ab22a32332dd7053e6" title=" " alt="" coords="273,56,409,83"/>
+<area shape="rect" id="node6" href="$xdpe15284_8c.html#a0a2eecfce365cc321986bd3f26974a71" title=" " alt="" coords="253,107,429,133"/>
+<area shape="rect" id="node3" href="$at-cb_2src_2platform_2plat__class_8c.html#afe186fac51a057492906d49592f2046c" title=" " alt="" coords="499,5,616,32"/>
+<area shape="rect" id="node5" href="$pex89000_8c.html#a83e04208f5393fbd4c34521330d8c703" title=" " alt="" coords="477,56,637,83"/>
+<area shape="rect" id="node7" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="498,107,617,133"/>
+<area shape="rect" id="node9" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="497,157,618,184"/>
+<area shape="rect" id="node8" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="685,132,828,159"/>
+</map>

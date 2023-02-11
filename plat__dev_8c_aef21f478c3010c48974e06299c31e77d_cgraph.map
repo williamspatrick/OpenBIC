@@ -1,0 +1,7 @@
+<map id="pal_xdpe12284c_read" name="pal_xdpe12284c_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node2" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="202,5,321,32"/>
+<area shape="rect" id="node4" href="$plat__dev_8c.html#a48274686b7126fc5d32070cb4349f54a" title=" " alt="" coords="205,56,317,83"/>
+<area shape="rect" id="node5" href="$util__pmbus_8c.html#a7c60131c7ed95a5b56650f7ece49104d" title=" " alt="" coords="200,107,323,133"/>
+<area shape="rect" id="node3" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="371,5,513,32"/>
+</map>

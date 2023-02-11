@@ -1,0 +1,11 @@
+<map id="STORAGE_WRITE_FRUID_DATA" name="STORAGE_WRITE_FRUID_DATA">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,228,83"/>
+<area shape="rect" id="node2" href="$fru_8c.html#a3eee59c9f2ec835dd526b36d36057ce8" title=" " alt="" coords="525,5,609,32"/>
+<area shape="rect" id="node3" href="$at-mc_2src_2ipmi_2plat__ipmi_8c.html#a1de951a494dae4ac63e71611ddbc2e66" title=" " alt="" coords="276,81,427,108"/>
+<area shape="rect" id="node4" href="$fru_8c.html#a882fd6771cfe1f31bfda96a396561be3" title=" " alt="" coords="526,56,607,83"/>
+<area shape="rect" id="node5" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a030290ba9bdfb95ddad14883664cf46a" title=" " alt="" coords="498,107,635,133"/>
+<area shape="rect" id="node6" href="$at-mc_2src_2platform_2plat__fru_8c.html#acb0700a4f5e6de704ec53e7fd80d5237" title=" " alt="" coords="475,157,659,184"/>
+<area shape="rect" id="node7" href="$common__i2c__mux_8c.html#a4db4a73e2c731c3e8dbf88a0c50a6769" title=" " alt="" coords="505,208,628,235"/>
+<area shape="rect" id="node8" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="707,208,828,235"/>
+<area shape="rect" id="node9" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="876,208,1019,235"/>
+</map>

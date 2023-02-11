@@ -1,0 +1,35 @@
+var yv35_rf_2src_2platform_2plat__fru_8h =
+[
+    [ "FRU_CFG_NUM", "yv35-rf_2src_2platform_2plat__fru_8h.html#ab8f5cc6fc8d1e4f80e7ed0a074a41a30", null ],
+    [ "FRU_ID", "yv35-rf_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9", [
+      [ "FIO_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a60c6a304ac8297feb93440eef5eb34e0", null ],
+      [ "CB_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a163bc1f867dc83b5acf0f4dc65a52a89", null ],
+      [ "ACCL_1_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a2df415549e4114ea0085c7e9a7e0ff5f", null ],
+      [ "ACCL_2_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ac04aba0378129b116301aa117d60cebf", null ],
+      [ "ACCL_3_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a48fb1da62d50d9abd722782e07ad19e9", null ],
+      [ "ACCL_4_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a617993dd8509fdc57e778912e43259c9", null ],
+      [ "ACCL_5_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a979ba17fcb1f6dceadce3334c9a57277", null ],
+      [ "ACCL_6_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a80ea5b8dd54fcb3955adc23ada35d944", null ],
+      [ "ACCL_7_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a7ca4bf03cbac08b678a8b45c0f59acfa", null ],
+      [ "ACCL_8_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a35dc2c9d2f7eb0fbeac6a2af9da8bc14", null ],
+      [ "ACCL_9_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9affc9eecbedbf230751b8cd800040445f", null ],
+      [ "ACCL_10_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ad2057b4b409976a79516a3b0aae25745", null ],
+      [ "ACCL_11_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ad7917638a46d38539a1abf342c74b70d", null ],
+      [ "ACCL_12_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9aa1e9843a518e5c67d8fe397df7494dae", null ],
+      [ "MAX_FRU_ID", "at-cb_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ac918002c4e618908ebae22e273eac49d", null ],
+      [ "MC_FRU_ID", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a89e5e3b87a98ae1c060288058166eb42", null ],
+      [ "CXL_FRU_ID1", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ad971a36eda77829740651674718bfed6", null ],
+      [ "CXL_FRU_ID2", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a2b91b857ce608eae3918a7d7461f3760", null ],
+      [ "CXL_FRU_ID3", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a0e8589d97951d4a93624f0fe905be79a", null ],
+      [ "CXL_FRU_ID4", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a42417e331c8e57d213abff4c50714deb", null ],
+      [ "CXL_FRU_ID5", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9aa91f87359248c74cfcd649bf2a35c58f", null ],
+      [ "CXL_FRU_ID6", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a24800a2de5af798225cbd7daa6120bf1", null ],
+      [ "CXL_FRU_ID7", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a8340f0b4a256ad72dbc1ad7d509ad990", null ],
+      [ "CXL_FRU_ID8", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a6b580a123bf9d073bb6a789990ae0c5f", null ],
+      [ "MAX_FRU_ID", "at-mc_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ac918002c4e618908ebae22e273eac49d", null ],
+      [ "VF_FRU_ID", "yv3-vf_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a465ccf592bcb721cf1407aa77cb99b23", null ],
+      [ "MAX_FRU_ID", "yv3-vf_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ac918002c4e618908ebae22e273eac49d", null ],
+      [ "RF_FRU_ID", "yv35-rf_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9a21aa3041fa98f4c317fe549d7a3c4072", null ],
+      [ "MAX_FRU_ID", "yv35-rf_2src_2platform_2plat__fru_8h.html#ad9d175fb10f779b09415ea6e1e19c8f9ac918002c4e618908ebae22e273eac49d", null ]
+    ] ]
+];

@@ -1,0 +1,6 @@
+<map id="init_power_on_thread" name="init_power_on_thread">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,151,57"/>
+<area shape="rect" id="node2" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#a3033e1ab7c0a57fa1f40e8cabbd848e5" title=" " alt="" coords="199,31,385,57"/>
+<area shape="rect" id="node3" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#a47213d710574d7b5919568ccf008252e" title=" " alt="" coords="460,5,587,32"/>
+<area shape="rect" id="node4" href="$power__status_8c.html#aa3406c25950a307fb61cec9e156605c3" title=" " alt="" coords="433,56,613,83"/>
+</map>

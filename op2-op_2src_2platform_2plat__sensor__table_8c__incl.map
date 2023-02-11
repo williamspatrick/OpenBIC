@@ -1,0 +1,29 @@
+<map id="meta&#45;facebook/op2&#45;op/src/platform/plat_sensor_table.c" name="meta&#45;facebook/op2&#45;op/src/platform/plat_sensor_table.c">
+<area shape="rect" id="node1" title=" " alt="" coords="352,5,519,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="38,109,102,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="127,109,221,136"/>
+<area shape="rect" id="node4" href="$ast__adc_8h.html" title=" " alt="" coords="163,259,241,285"/>
+<area shape="rect" id="node7" href="$sensor_8h.html" title=" " alt="" coords="393,184,464,211"/>
+<area shape="rect" id="node18" href="$power__status_8h.html" title=" " alt="" coords="28,259,139,285"/>
+<area shape="rect" id="node19" href="$pt5161l_8h.html" title=" " alt="" coords="398,109,473,136"/>
+<area shape="rect" id="node20" href="$op2-op_2src_2platform_2plat__i2c_8h.html" title=" " alt="" coords="791,184,869,211"/>
+<area shape="rect" id="node21" href="$op2-op_2src_2platform_2plat__sensor__table_8h.html" title=" " alt="" coords="497,109,632,136"/>
+<area shape="rect" id="node22" href="$op2-op_2src_2platform_2plat__hook_8h.html" title=" " alt="" coords="707,109,795,136"/>
+<area shape="rect" id="node23" href="$op2-op_2src_2platform_2plat__class_8h.html" title=" " alt="" coords="637,259,727,285"/>
+<area shape="rect" id="node24" href="$op2-op_2src_2platform_2plat__power__seq_8h.html" title=" " alt="" coords="874,109,997,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="165,333,239,360"/>
+<area shape="rect" id="node6" title=" " alt="" coords="517,333,581,360"/>
+<area shape="rect" id="node8" title=" " alt="" coords="341,259,407,285"/>
+<area shape="rect" id="node9" title=" " alt="" coords="432,259,511,285"/>
+<area shape="rect" id="node10" href="$sdr_8h.html" title=" " alt="" coords="266,259,317,285"/>
+<area shape="rect" id="node11" href="$libutil_8h.html" title=" " alt="" coords="752,259,815,285"/>
+<area shape="rect" id="node12" href="$ipmb_8h.html" title=" " alt="" coords="720,333,780,360"/>
+<area shape="rect" id="node15" href="$hal__i2c_8h.html" title=" " alt="" coords="816,333,889,360"/>
+<area shape="rect" id="node13" title=" " alt="" coords="704,408,796,435"/>
+<area shape="rect" id="node14" title=" " alt="" coords="620,408,680,435"/>
+<area shape="rect" id="node16" title=" " alt="" coords="820,408,912,435"/>
+<area shape="rect" id="node17" title=" " alt="" coords="936,408,1095,435"/>
+<area shape="rect" id="node25" href="$hal__gpio_8h.html" title=" " alt="" coords="965,259,1045,285"/>
+<area shape="rect" id="node27" href="$op2-op_2src_2platform_2plat__gpio_8h.html" title=" " alt="" coords="893,184,977,211"/>
+<area shape="rect" id="node26" title=" " alt="" coords="965,333,1063,360"/>
+</map>

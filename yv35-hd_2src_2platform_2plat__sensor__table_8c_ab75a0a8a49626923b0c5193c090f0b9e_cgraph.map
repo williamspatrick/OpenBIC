@@ -1,0 +1,7 @@
+<map id="load_sensor_config" name="load_sensor_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,139,57"/>
+<area shape="rect" id="node2" href="$gt-cc_2src_2platform_2plat__sensor__table_8c.html#a39b3dfcf8d0fe5ec77f349ab2ae33c04" title=" " alt="" coords="187,31,357,57"/>
+<area shape="rect" id="node3" href="$wc-mb_2src_2platform_2plat__sensor__table_8c.html#a27d80151140f2515b79d867ef7ea7446" title=" " alt="" coords="423,5,529,32"/>
+<area shape="rect" id="node4" href="$gt-cc_2src_2platform_2plat__class_8c.html#a824da554c9ce9ac4fd81c4849e3a5ec0" title=" " alt="" coords="405,56,547,83"/>
+<area shape="rect" id="node5" href="$hal__gpio_8c.html#af700ee50de3d113e223c2b011c41f966" title=" " alt="" coords="595,56,665,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pre_i2c_bus_read" name="pre_i2c_bus_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,129,91"/>
+<area shape="rect" id="node2" href="$gt-cc_2src_2platform_2plat__hook_8c.html#aadc22b293ff877247d37dcdc90a0af46" title=" " alt="" coords="203,5,315,32"/>
+<area shape="rect" id="node3" href="$rg3mxxb12_8c.html#ac841535e20e580ccf03d49f862c38d32" title=" " alt="" coords="177,57,341,98"/>
+<area shape="rect" id="node4" href="$i2c-mux-tca9548_8c.html#a18884c6b5cae2ce9693e26b2cb116e43" title=" " alt="" coords="187,123,332,149"/>
+<area shape="rect" id="node5" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="389,123,511,149"/>
+<area shape="rect" id="node6" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="559,123,701,149"/>
+</map>

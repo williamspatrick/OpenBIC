@@ -1,0 +1,12 @@
+<map id="pal_sensor_drive_init" name="pal_sensor_drive_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,149,159"/>
+<area shape="rect" id="node2" href="$plat__dev_8c.html#a79b9db50da7d8db1cfbfb72d19858bcd" title=" " alt="" coords="205,5,328,32"/>
+<area shape="rect" id="node3" href="$plat__dev_8c.html#a786ba56bf130c988bc6881ceb0aed592" title=" " alt="" coords="213,56,321,83"/>
+<area shape="rect" id="node6" href="$plat__dev_8c.html#ad2ff7e85ae8e4d7164d5883fc90517cb" title=" " alt="" coords="211,107,323,133"/>
+<area shape="rect" id="node8" href="$plat__dev_8c.html#a79eac7ce47e63270e381dd58ae627489" title=" " alt="" coords="215,157,318,184"/>
+<area shape="rect" id="node9" href="$plat__dev_8c.html#a6a2b9e8797655f08036e99a302bff752" title=" " alt="" coords="213,208,320,235"/>
+<area shape="rect" id="node10" href="$plat__dev_8c.html#ac0c90d19f2e8841057acb50e4b7a087a" title=" " alt="" coords="197,259,336,285"/>
+<area shape="rect" id="node4" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="384,56,505,83"/>
+<area shape="rect" id="node5" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="553,81,696,108"/>
+<area shape="rect" id="node7" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="385,107,504,133"/>
+</map>

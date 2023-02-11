@@ -1,0 +1,12 @@
+<map id="pre_intel_peci_dimm_read" name="pre_intel_peci_dimm_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,179,171"/>
+<area shape="rect" id="node2" href="$intel__peci_8c.html#ad106677cfcdf2ce6fa2698249c5c65bc" title=" " alt="" coords="245,43,391,69"/>
+<area shape="rect" id="node5" href="$sensor_8c.html#a4be7dade1eb55cdd2be583473145009b" title=" " alt="" coords="465,119,616,145"/>
+<area shape="rect" id="node6" href="$wc-mb_2src_2platform_2plat__sensor__table_8c.html#ac90b36dbc25f0e3af82f6c173e358406" title=" " alt="" coords="227,144,409,171"/>
+<area shape="rect" id="node7" href="$power__status_8c.html#abeff55e3cd2e8563760154b81f37f286" title=" " alt="" coords="261,195,375,221"/>
+<area shape="rect" id="node8" href="$hal__peci_8c.html#a6ffff8eba702bfb4fd26a8b057d32915" title=" " alt="" coords="279,245,357,272"/>
+<area shape="rect" id="node3" href="$libutil_8c.html#a1e13185e8d3fc0ee9926ab7cd21413b6" title=" " alt="" coords="457,5,624,32"/>
+<area shape="rect" id="node4" href="$ipmb_8h.html#a260c07ba372e6648a635b20dbb790fa9" title=" " alt="" coords="499,56,582,83"/>
+<area shape="rect" id="node9" href="$hal__peci_8c.html#a8e95a227994066af673414f44c4a1f61" title=" " alt="" coords="487,245,594,272"/>
+<area shape="rect" id="node10" href="$hal__peci_8c.html#a83241209febf9da926be7e30afd9cc46" title=" " alt="" coords="672,245,820,272"/>
+</map>

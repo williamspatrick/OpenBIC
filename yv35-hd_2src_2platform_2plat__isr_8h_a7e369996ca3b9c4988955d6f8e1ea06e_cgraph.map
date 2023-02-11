@@ -1,0 +1,10 @@
+<map id="ISR_APML_ALERT" name="ISR_APML_ALERT">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,143,108"/>
+<area shape="rect" id="node2" href="$apml_8h.html#a0c42010951467bd802fc069533b1a62a" title=" " alt="" coords="217,5,331,32"/>
+<area shape="rect" id="node3" href="$apml_8c.html#aa9ce809448f747eacccee0dd47f3877a" title=" " alt="" coords="216,56,332,83"/>
+<area shape="rect" id="node6" href="$apml_8c.html#a265e1859d05a657e6fe1b8c81c4f34fc" title=" " alt="" coords="203,107,345,133"/>
+<area shape="rect" id="node7" href="$plat__apml_8c.html#aac57eb0cea5874ab2573efa831030fcc" title=" " alt="" coords="191,157,357,184"/>
+<area shape="rect" id="node4" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="405,56,527,83"/>
+<area shape="rect" id="node5" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="575,56,717,83"/>
+<area shape="rect" id="node8" href="$ipmb_8h.html#a260c07ba372e6648a635b20dbb790fa9" title=" " alt="" coords="425,157,507,184"/>
+</map>

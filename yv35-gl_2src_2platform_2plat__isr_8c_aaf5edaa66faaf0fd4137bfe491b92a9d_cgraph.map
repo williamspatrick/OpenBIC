@@ -1,0 +1,8 @@
+<map id="Initialize_CPU" name="Initialize_CPU">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,109,83"/>
+<area shape="rect" id="node2" href="$hal__gpio_8c.html#af700ee50de3d113e223c2b011c41f966" title=" " alt="" coords="377,5,447,32"/>
+<area shape="rect" id="node3" href="$wc-mb_2src_2platform_2plat__isr_8c.html#a677d4ebf0617647e5b6578d3d3278c30" title=" " alt="" coords="157,31,323,57"/>
+<area shape="rect" id="node4" href="$wc-mb_2src_2platform_2plat__isr_8c.html#ac81fa00f14928ed121c6ddb9a9e1cf3b" title=" " alt="" coords="173,81,307,108"/>
+<area shape="rect" id="node6" href="$power__status_8c.html#ab7fb7b949a4bf7e45e67c489dd02e8a6" title=" " alt="" coords="160,132,320,159"/>
+<area shape="rect" id="node5" href="$ipmb_8h.html#a260c07ba372e6648a635b20dbb790fa9" title=" " alt="" coords="371,81,453,108"/>
+</map>

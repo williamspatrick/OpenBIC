@@ -1,0 +1,16 @@
+<map id="IPMI_Storage_handler" name="IPMI_Storage_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,156,235"/>
+<area shape="rect" id="node2" href="$storage__handler_8c.html#a7919f9578fc22f4ac35597c2b72cf554" title=" " alt="" coords="240,31,391,57"/>
+<area shape="rect" id="node4" href="$storage__handler_8c.html#a0369679f2dd497a5366438852626b23f" title=" " alt="" coords="213,107,417,133"/>
+<area shape="rect" id="node7" href="$storage__handler_8c.html#a52be47ebaf090ff13c97427de77a3f70" title=" " alt="" coords="239,183,391,209"/>
+<area shape="rect" id="node12" href="$storage__handler_8c.html#aa8bd303f83daaf8604a2341356cbdc63" title=" " alt="" coords="207,233,423,260"/>
+<area shape="rect" id="node13" href="$storage__handler_8c.html#a27f2e1be94a1a56bb86373ea13544e5d" title=" " alt="" coords="239,284,392,311"/>
+<area shape="rect" id="node14" href="$storage__handler_8c.html#aac0060047fffbc7d7190cf98e966fdd9" title=" " alt="" coords="204,335,427,361"/>
+<area shape="rect" id="node3" href="$ipmb_8h.html#a260c07ba372e6648a635b20dbb790fa9" title=" " alt="" coords="511,5,593,32"/>
+<area shape="rect" id="node5" href="$fru_8c.html#a53cf0d0e554a3f8c14212e7aa36fc4f8" title=" " alt="" coords="499,56,605,83"/>
+<area shape="rect" id="node6" href="$fru_8c.html#a2e9dc7250538e51b003d6c205b46dcc1" title=" " alt="" coords="491,107,613,133"/>
+<area shape="rect" id="node8" href="$storage__handler_8c.html#a302512a6de084671a8eacdb412cf6b9e" title=" " alt="" coords="503,157,601,184"/>
+<area shape="rect" id="node9" href="$sdr_8c.html#a000960362b80f0f8d7940659011692e0" title=" " alt="" coords="475,208,629,235"/>
+<area shape="rect" id="node10" href="$sdr_8c.html#ac2c6045f95c0ad3ead72d9e99f1e74ac" title=" " alt="" coords="483,259,621,285"/>
+<area shape="rect" id="node11" href="$sdr_8c.html#a06ce9ae9b4c1d70d335e8b6d46eccfb5" title=" " alt="" coords="479,309,625,336"/>
+</map>

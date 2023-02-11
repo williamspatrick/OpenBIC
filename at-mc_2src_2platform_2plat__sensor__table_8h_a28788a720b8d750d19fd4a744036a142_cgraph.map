@@ -1,0 +1,22 @@
+<map id="pal_init_drive" name="pal_init_drive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,360,104,387"/>
+<area shape="rect" id="node2" href="$plat__dev_8c.html#ae9eb891f0031afc7db75fd957517d5f9" title=" " alt="" coords="155,157,299,184"/>
+<area shape="rect" id="node12" href="$at-mc_2src_2platform_2plat__hook_8c.html#af85b23acc687c93427ef5dd8ab0e6866" title=" " alt="" coords="154,461,301,488"/>
+<area shape="rect" id="node14" href="$at-mc_2src_2platform_2plat__hook_8c.html#a4284246d5be0842ce63e3f400087b7ba" title=" " alt="" coords="152,411,303,437"/>
+<area shape="rect" id="node18" href="$at-mc_2src_2platform_2plat__hook_8c.html#a2a0d8358bd83947fe8a87d96c4c99cd9" title=" " alt="" coords="158,360,297,387"/>
+<area shape="rect" id="node20" href="$at-mc_2src_2platform_2plat__hook_8c.html#ad32448308b3d8c84305d764f87cf6edf" title=" " alt="" coords="155,309,299,336"/>
+<area shape="rect" id="node3" href="$plat__dev_8c.html#a79b9db50da7d8db1cfbfb72d19858bcd" title=" " alt="" coords="377,157,499,184"/>
+<area shape="rect" id="node4" href="$plat__dev_8c.html#a786ba56bf130c988bc6881ceb0aed592" title=" " alt="" coords="384,208,492,235"/>
+<area shape="rect" id="node7" href="$plat__dev_8c.html#ad2ff7e85ae8e4d7164d5883fc90517cb" title=" " alt="" coords="382,107,494,133"/>
+<area shape="rect" id="node9" href="$plat__dev_8c.html#a79eac7ce47e63270e381dd58ae627489" title=" " alt="" coords="387,259,489,285"/>
+<area shape="rect" id="node10" href="$plat__dev_8c.html#a6a2b9e8797655f08036e99a302bff752" title=" " alt="" coords="385,5,491,32"/>
+<area shape="rect" id="node11" href="$plat__dev_8c.html#ac0c90d19f2e8841057acb50e4b7a087a" title=" " alt="" coords="369,56,507,83"/>
+<area shape="rect" id="node5" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="588,196,709,223"/>
+<area shape="rect" id="node6" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="772,159,915,185"/>
+<area shape="rect" id="node8" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="589,120,708,147"/>
+<area shape="rect" id="node13" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a030290ba9bdfb95ddad14883664cf46a" title=" " alt="" coords="369,411,507,437"/>
+<area shape="rect" id="node15" href="$at-mc_2src_2platform_2plat__sensor__table_8c.html#a0779626464418f19ddc77b20e2ce16e8" title=" " alt="" coords="351,360,525,387"/>
+<area shape="rect" id="node16" href="$at-mc_2src_2platform_2plat__sensor__table_8c.html#a7f46a01826e2ad87a221cd81778f14f2" title=" " alt="" coords="573,321,724,362"/>
+<area shape="rect" id="node17" href="$at-mc_2src_2platform_2plat__class_8c.html#ab16df4183cbafff291c816a40ec4ae12" title=" " alt="" coords="581,386,717,427"/>
+<area shape="rect" id="node19" href="$common__i2c__mux_8c.html#a4db4a73e2c731c3e8dbf88a0c50a6769" title=" " alt="" coords="377,309,499,336"/>
+</map>

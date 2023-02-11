@@ -1,0 +1,9 @@
+<map id="ISR_CPU_VPP_INT" name="ISR_CPU_VPP_INT">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,148,123"/>
+<area shape="rect" id="node2" href="$ipmi_8c.html#a40681786f36bd1836cdb473b7050dda1" title=" " alt="" coords="201,5,351,47"/>
+<area shape="rect" id="node4" href="$yv35-cl_2src_2platform_2plat__isr_8c.html#aa2398a62c49edca64eb9435554ff91f6" title=" " alt="" coords="196,71,356,98"/>
+<area shape="rect" id="node5" href="$hal__gpio_8c.html#af700ee50de3d113e223c2b011c41f966" title=" " alt="" coords="241,122,311,149"/>
+<area shape="rect" id="node6" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="217,173,335,199"/>
+<area shape="rect" id="node3" href="$ipmb_8h.html#a260c07ba372e6648a635b20dbb790fa9" title=" " alt="" coords="434,42,517,69"/>
+<area shape="rect" id="node7" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="404,173,547,199"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="control_power_on_sequence" name="control_power_on_sequence">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node2" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#a47213d710574d7b5919568ccf008252e" title=" " alt="" coords="267,5,393,32"/>
+<area shape="rect" id="node3" href="$power__status_8c.html#aa3406c25950a307fb61cec9e156605c3" title=" " alt="" coords="240,56,420,83"/>
+</map>

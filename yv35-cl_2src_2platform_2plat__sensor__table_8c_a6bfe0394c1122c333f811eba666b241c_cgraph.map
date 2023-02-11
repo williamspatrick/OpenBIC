@@ -1,0 +1,6 @@
+<map id="get_hsc_pwr_reading" name="get_hsc_pwr_reading">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,151,61"/>
+<area shape="rect" id="node2" href="$sensor_8c.html#af2fdef4279bdfbc554c6486ff50c422a" title=" " alt="" coords="199,35,333,61"/>
+<area shape="rect" id="node3" href="$sensor_8c.html#a88f54d32e527f667e809afe345f3d764" title=" " alt="" coords="395,5,501,32"/>
+<area shape="rect" id="node4" href="$sensor_8c.html#a17b109696bd768cea72e29cf7389f308" title=" " alt="" coords="381,57,515,98"/>
+</map>

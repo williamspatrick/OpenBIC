@@ -1,0 +1,16 @@
+<map id="control_power_sequence" name="control_power_sequence">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,172,200"/>
+<area shape="rect" id="node2" href="$op2-op_2src_2platform_2plat__isr_8c.html#a6a5a06dccb2b2dcba5b5394a707b7b67" title=" " alt="" coords="236,5,372,32"/>
+<area shape="rect" id="node3" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#acf0ebce8dc2735df7b69629aa1401add" title=" " alt="" coords="220,57,388,98"/>
+<area shape="rect" id="node4" href="$hal__gpio_8c.html#af700ee50de3d113e223c2b011c41f966" title=" " alt="" coords="269,123,339,149"/>
+<area shape="rect" id="node5" href="$op2-op_2src_2platform_2plat__isr_8c.html#a2f1375d39ef3fd607886c5699718cdae" title=" " alt="" coords="231,173,377,200"/>
+<area shape="rect" id="node9" href="$op2-op_2src_2platform_2plat__isr_8c.html#a2df9ea86460a15557bc87b6ba9077249" title=" " alt="" coords="231,224,377,251"/>
+<area shape="rect" id="node13" href="$yv35-rf_2src_2platform_2plat__power__seq_8c.html#ad211e65a3719c0673f43475a62d4e199" title=" " alt="" coords="239,275,369,301"/>
+<area shape="rect" id="node14" href="$yv35-rf_2src_2platform_2plat__power__seq_8c.html#a09a1fe7619726f0fe1f52b85be70a720" title=" " alt="" coords="239,325,369,352"/>
+<area shape="rect" id="node6" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#a3365a4a6bd242d6ec1356f6f0f36e7cb" title=" " alt="" coords="436,169,623,196"/>
+<area shape="rect" id="node7" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#aa64f61d9a124460aa9415165561b9dc0" title=" " alt="" coords="697,111,824,137"/>
+<area shape="rect" id="node8" href="$power__status_8c.html#a1a43a6cae7b7ec64b70d20ce91b82268" title=" " alt="" coords="692,162,829,203"/>
+<area shape="rect" id="node10" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#a3033e1ab7c0a57fa1f40e8cabbd848e5" title=" " alt="" coords="436,228,623,255"/>
+<area shape="rect" id="node11" href="$op2-op_2src_2platform_2plat__power__seq_8c.html#a47213d710574d7b5919568ccf008252e" title=" " alt="" coords="697,228,824,255"/>
+<area shape="rect" id="node12" href="$power__status_8c.html#aa3406c25950a307fb61cec9e156605c3" title=" " alt="" coords="671,279,851,305"/>
+</map>

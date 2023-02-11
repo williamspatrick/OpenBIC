@@ -1,0 +1,8 @@
+<map id="OEM_1S_FW_UPDATE" name="OEM_1S_FW_UPDATE">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$util__spi_8c.html#a42cdb23aad6b4c12e78b0a30ac3d9f5c" title=" " alt="" coords="223,5,305,32"/>
+<area shape="rect" id="node3" href="$hal__gpio_8c.html#ab1b576cbfd9eddaaf57a5aa5fc383dd1" title=" " alt="" coords="229,56,299,83"/>
+<area shape="rect" id="node5" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#abda0c3d7a63cc6f68d1ed88e1d36729d" title=" " alt="" coords="215,107,313,133"/>
+<area shape="rect" id="node4" href="$hal__gpio_8c.html#aba20fe1f621c6477f568ea944e37f5c4" title=" " alt="" coords="381,56,459,83"/>
+<area shape="rect" id="node6" href="$at-cb_2src_2platform_2plat__class_8c.html#afe186fac51a057492906d49592f2046c" title=" " alt="" coords="361,107,479,133"/>
+</map>

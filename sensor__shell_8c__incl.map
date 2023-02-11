@@ -1,0 +1,20 @@
+<map id="common/shell/commands/sensor_shell.c" name="common/shell/commands/sensor_shell.c">
+<area shape="rect" id="node1" title=" " alt="" coords="634,5,805,47"/>
+<area shape="rect" id="node2" href="$sdr_8h.html" title=" " alt="" coords="603,169,654,196"/>
+<area shape="rect" id="node5" href="$sensor_8h.html" title=" " alt="" coords="407,95,477,121"/>
+<area shape="rect" id="node15" href="$sensor__shell_8h.html" title=" " alt="" coords="667,95,772,121"/>
+<area shape="rect" id="node17" title=" " alt="" coords="796,95,859,121"/>
+<area shape="rect" id="node18" title=" " alt="" coords="883,95,947,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="495,244,570,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="313,244,377,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="409,169,475,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="500,169,579,196"/>
+<area shape="rect" id="node8" href="$libutil_8h.html" title=" " alt="" coords="220,169,283,196"/>
+<area shape="rect" id="node9" href="$ipmb_8h.html" title=" " alt="" coords="121,244,181,271"/>
+<area shape="rect" id="node12" href="$hal__i2c_8h.html" title=" " alt="" coords="215,244,288,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,319,97,345"/>
+<area shape="rect" id="node11" title=" " alt="" coords="121,319,181,345"/>
+<area shape="rect" id="node13" title=" " alt="" coords="205,319,297,345"/>
+<area shape="rect" id="node14" title=" " alt="" coords="321,319,480,345"/>
+<area shape="rect" id="node16" title=" " alt="" coords="678,169,769,196"/>
+</map>

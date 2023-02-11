@@ -1,0 +1,13 @@
+<map id="ISR_CPU_VPP_INT" name="ISR_CPU_VPP_INT">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,148,108"/>
+<area shape="rect" id="node2" href="$yv35-cl_2src_2platform_2plat__isr_8c.html#aa2398a62c49edca64eb9435554ff91f6" title=" " alt="" coords="196,5,356,32"/>
+<area shape="rect" id="node4" href="$hal__gpio_8c.html#af700ee50de3d113e223c2b011c41f966" title=" " alt="" coords="241,56,311,83"/>
+<area shape="rect" id="node5" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="217,107,335,133"/>
+<area shape="rect" id="node7" href="$gt-cc_2src_2platform_2plat__mctp_8c.html#a998a1c1d667b48c6de3aef50f5dc86aa" title=" " alt="" coords="200,169,352,196"/>
+<area shape="rect" id="node3" href="$ipmb_8h.html#a260c07ba372e6648a635b20dbb790fa9" title=" " alt="" coords="435,5,517,32"/>
+<area shape="rect" id="node6" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="405,93,547,120"/>
+<area shape="rect" id="node8" href="$yv35-rf_2src_2platform_2plat__mctp_8c.html#aa91b2fdee8959aa54116d3b9b3b6c031" title=" " alt="" coords="404,144,548,171"/>
+<area shape="rect" id="node9" href="$pldm_8c.html#a90114495fe7507fbfbdcd388f02911aa" title=" " alt="" coords="417,195,535,221"/>
+<area shape="rect" id="node11" href="$pldm__oem_8c.html#acdcd72cd46e1f10b7be19781bb1b9866" title=" " alt="" coords="441,245,511,272"/>
+<area shape="rect" id="node10" href="$pldm_8c.html#a41d615349cd666a0f5372f4f4f0c9507" title=" " alt="" coords="596,195,759,221"/>
+</map>
